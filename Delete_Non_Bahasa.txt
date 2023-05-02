@@ -1,0 +1,11 @@
+V2_CakNun = DONE(889)
+
+V3_Anies  = DONE(874)
+
+V4_Puan = DONE(952)
+
+V5_Luhut = DONE(915)
+
+V6_Ganjar = DONE(936)
+
+V7_RepublikPencitraan = DONE(821)
